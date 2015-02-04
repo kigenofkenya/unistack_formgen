@@ -12,7 +12,7 @@
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "git://github.com/elijahsnow/unistack_formgen.git"
+    "url": "https://github.com/kigenofkenya/unistack_formgen.git"
   },
   "engines": {
     "node": ">= 0.4.0"
